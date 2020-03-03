@@ -8,4 +8,4 @@ El problema que se plantea es un juego típico japonés, parecido al sudoku, lla
 - Un mismo valor no se puede repetir en una columna.
 - En el caso de que entre dos casillas adyacentes haya una restricción binaria, los valores tienen que cumplirla.
 
-La documentación de la resolución al problema se encuentra en el repositorio.
+La documentación de la resolución al problema se subirá al repositorio.
